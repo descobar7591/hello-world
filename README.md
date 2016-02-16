@@ -1,1 +1,3 @@
 # hello-world
+# just going through the tutorial. first time using GitHub.
+# not much else...
